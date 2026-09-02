@@ -1,0 +1,23 @@
+# секреты и локальное
+.env
+*.env
+!*.env.example
+
+# система/редакторы
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.user
+
+# артефакты
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+
+# временное
+*.tmp
+*.log
