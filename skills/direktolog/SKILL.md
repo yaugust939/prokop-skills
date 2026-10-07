@@ -8,14 +8,14 @@ description: |
   «посчитай KPI/CPA/CPL», «стратегия Директа», «семантическое ядро»,
   «оптимизируй ставки», «отчёт по рекламе», «маркировка рекламы».
 version: 1.0.0
-author: hermes
+author: prokop
 license: MIT
 platforms: [windows, macos, linux]
 metadata:
-  hermes:
+  prokop:
     tags: [yandex-direct, ppc, marketing, click-ru, семантика]
   agent: direktolog
-  subordonne_to: prokopiy
+  subordonne_to: prokop
   isco: "2431"
 ---
 

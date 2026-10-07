@@ -2,11 +2,11 @@
 name: gui-automation
 description: Управление десктоп-интерфейсом через computer_use.
 version: 0.1.0
-author: hermes
+author: prokop
 license: MIT
 platforms: [windows, macos, linux]
 metadata:
-  hermes:
+  prokop:
     tags: [gui, automation, computer-use, desktop]
     category: automation
     related_skills: []
